@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Câmera</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <img src="{{ photo }}"/>
+</ion-content>
+
+<ion-footer padding>
+  <div id="camera">
+    <button ion-button large color="dark" clear icon-only (click) = "takePicture()">
+      <ion-icon name="camera"></ion-icon>
+    </button>
+  </div>
+</ion-footer>

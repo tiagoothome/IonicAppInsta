@@ -1,0 +1,67 @@
+page-home {
+    color: black;
+    ion-scrool{
+        height: 100px;
+            }
+        }
+
+
+.titulo{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 20pt;
+    font-weight: bold;
+    color: black;
+}
+.icones{
+    color: black;
+    font-weight: bold;
+}
+
+#user{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 14pt;
+    text-transform: lowercase;
+   
+	 
+}
+.tituloo{
+    font-family: 'Roboto', sans-serif;
+
+}
+.parag{
+    font-family: 'Roboto', sans-serif;
+}
+
+.botao{
+    float: right;
+}
+
+.story{
+    position: relative;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+    color: black;
+    white-space: nowrap;
+    display: inline-block;
+    text-align: center;
+    -webkit-overflow-scrolling: touch            ;
+
+
+    img{
+        border: 2px solid #C13584;
+        padding: 2px;
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+
+
+
+
+    }
+    .borda{
+        border: 1px solid #A9A9A9;
+        padding: 3px;
+    }
+    }
